@@ -1,0 +1,6 @@
+{
+  "Linee": "FFFFFF",
+  "Quadrante1": "0055FF",
+  "Quadrante2": "0033DD",
+  "Numeri": "FFFFFF"
+}

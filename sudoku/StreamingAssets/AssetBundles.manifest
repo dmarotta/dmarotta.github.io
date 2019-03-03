@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2184960355
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sudoku
+      Dependencies: {}
